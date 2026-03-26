@@ -310,4 +310,6 @@ quick_eda(df)
 Would you like me to demonstrate any of these techniques on a specific dataset, or dive deeper into visualization techniques?
 
 Evaluate correctness:
-
+In describe(), information about categorical data is missing
+Learned about a new library called missngno - used to plot the Nan vlaues in dataset, and can be used to find coorelation between them
+other than it covers all basic eda 
