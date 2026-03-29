@@ -145,5 +145,3 @@ This project is licensed under the **MIT License**.
 **Avishka Jindal**
 
 ---
-
-If you want, I can **upgrade this README to a high-scoring version (with visuals, EDA insights, and results section based on your notebook outputs)** — that’s usually what impresses evaluators.
